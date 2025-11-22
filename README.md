@@ -30,6 +30,9 @@ Run the program:
 1.	Open python career_advisor.py
 2.Enter marks when prompted (0-100)
 3.View results and charts
+
+
+
 Instructions for Testing:
 1.	Test with high marks (90+) to see "Excellent" category
 2.	Test with low marks (<60) to see "Needs Improvement"
